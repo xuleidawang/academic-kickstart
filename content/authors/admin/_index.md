@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include physically based rendering, game engine.
 
 interests:
 - 3D Computer Graphics
@@ -42,12 +42,15 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:daniel[underscore][lastname][firstname]@hotmail.com".
-- icon: twitter
+- icon: linkedin
   icon_pack: fab
-  link: https://twitter.com/Xulei_Daniel
+  link: https://www.linkedin.com/in/lei-xu-546048a5/
 - icon: github
   icon_pack: fab
   link: https://github.com/xuleidawang
+- icon: facebook
+  icon_pack: fab
+  link: https://www.facebook.com/daniel.xu.5872
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -64,8 +67,8 @@ email: ""
 - Visitors -->
 ---
 
-Lei is a Software Engineer at Microsoft. He is currently working for the Bing Maps team. He received his Master degree from University of California, Santa Barbara, with a specialization in computer graphics. Fortunately, he had a chance to work with Pro.[Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html) on a real-time ray tracing project. Earlier, he earned his Bachelor degree from Jiangsu University in 2017. He has a broad interest in 3D computer graphics topics include: physically based rendering, game engine, etc.
+Lei is a Software Engineer at Microsoft. He is currently working for the Bing Maps team. He received his Master degree from University of California, Santa Barbara, with a specialization in computer graphics. Fortunately, he had a chance to work with Prof.[Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html) on a real-time ray tracing project. Earlier, he earned his Bachelor degree from Jiangsu University in 2017. He has a broad interest in 3D computer graphics topics including: physically based rendering, game engine, etc.
 
-In his spare time, he spends a huge amount of time playing video games, check his gamer profile at: [exophase](https://www.exophase.com/user/xuleidawang/). Also, Lei has been playing soccer for almost 20 year, atteneded and won a few amateur games both in the US and China. 
+In his spare time, he spends a huge amount of time playing video games, check his gamer profile at: [exophase](https://www.exophase.com/user/xuleidawang/). Besides, he has been playing soccer for almost 20 year, atteneded and won a few amateur games both in the US and China. 
 
 

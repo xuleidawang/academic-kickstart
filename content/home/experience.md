@@ -27,9 +27,9 @@ date_format = "Jan 2006"
   description = """
   Responsibilities include:
   
-  * 3D Reconstruction 
+  * 3D Reconstruction Pipeline 
   * Cross Level-of-Detail Texturing
-  * Model Conversion
+  * Model Viewer Tools
   """
 
 [[experience]]
@@ -40,6 +40,7 @@ date_format = "Jan 2006"
   date_start = "2019-01-01"
   date_end = "2019-06-01"
   Description = """
+
   CS165A Artificial Intelligence
   CS180 Computer Graphics
   """
