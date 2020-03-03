@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include physically based rendering, game engine.
+bio: My interests include computer graphics, physically based rendering, game engine.
 
 interests:
 - 3D Computer Graphics
