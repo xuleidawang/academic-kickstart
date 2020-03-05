@@ -35,8 +35,8 @@ For a more comprehensive resources, you can check this link from [Ke-Sen Huang's
 10. Deep Inverse Rendering for High-resolution SVBRDF Estimation from an Arbitrary Number of Images [[PDF]](https://gao-duan.github.io/publications/mvsvbrdf/mvsvbrdf_low_resolution.pdf)
 11. Accurate Appearance Preserving Prefiltering for Rendering Displacement-Mapped Surface [[PDF]](http://cseweb.ucsd.edu/~liw086/multires-surface-s19/multires.pdf)  
 
-In the end, share a photo with my friends and dear Professors at University of California, Santa Barbara.  
+In the end, share a group photo with my friends and dear Professors at University of California, Santa Barbara.  
 
 {{< figure library="true" src="Siggraph2019.jpg" title="UCSB Dinner@SIGGRAPH2019" lightbox="true" >}}
 
-People from left front to back to right front are:[Pradeep Sen](https://www.ece.ucsb.edu/~psen/), [Goksu Guvendiren](http://goksu.me/), Sorry I forgot him, [Tobias Hollerer](https://sites.cs.ucsb.edu/~holl/), [Nima Kalantari](http://faculty.cs.tamu.edu/nimak/), [Chris Hellmuth](https://github.com/chellmuth), [Steve Bako](https://www.ece.ucsb.edu/~sbako/), [Theodore Kim](http://www.tkim.graphics/), [Me](lei-xu.com), [Yaoyi(Elyson)) Bai](https://velysianp.wixsite.com/elysonbaipersonal), [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html).
+People from left front to back to right front are:[Pradeep Sen](https://www.ece.ucsb.edu/~psen/), [Goksu Guvendiren](http://goksu.me/), Sorry I forgot him, [Tobias Hollerer](https://sites.cs.ucsb.edu/~holl/), [Nima Kalantari](http://faculty.cs.tamu.edu/nimak/), [Chris Hellmuth](https://github.com/chellmuth), [Steve Bako](https://www.ece.ucsb.edu/~sbako/), [Theodore Kim](http://www.tkim.graphics/), [Me](http://lei-xu.com), [Yaoyi(Elyson)) Bai](https://velysianp.wixsite.com/elysonbaipersonal), [Lingqi Yan](https://sites.cs.ucsb.edu/~lingqi/index.html).
