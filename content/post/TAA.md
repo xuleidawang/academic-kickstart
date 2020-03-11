@@ -1,6 +1,6 @@
 ---
 date: 2020-03-09
-title: A introduction to temporal antialiasing
+title: An introduction to temporal antialiasing
 tags: ["Computer Graphics", "Notes", "Real-Time Rendering"]
 --- 
 {{< figure library="true" src="TAAUncharted4.jpg" title="From _Temporal Antialiasing in Uncharted 4_ in SIGGRAPH 2016" lightbox="true" >}}
